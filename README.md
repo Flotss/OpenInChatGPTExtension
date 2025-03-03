@@ -1,4 +1,4 @@
-# Open in ChatGPT Extension 
+# Open in ChatGPT Extension
 
 A browser extension that allows you to quickly open selected text in ChatGPT through the context menu.
 
@@ -26,6 +26,41 @@ A browser extension that allows you to quickly open selected text in ChatGPT thr
 ## ⚠️ Important Note
 
 This extension is not an official OpenAI product. It is independently developed to facilitate access to ChatGPT.
+
+## 🔒 Privacy & Security
+
+- This extension only requests necessary permissions to function
+- No user data is collected or stored
+- Only processes selected text when explicitly requested by the user
+- Only communicates with official ChatGPT domains
+
+## 📋 Chrome Web Store Compliance
+
+This extension follows Chrome Web Store's core principles:
+
+1. **Safety**:
+
+   - No collection of unnecessary data
+   - Limited permissions scope
+   - Secure communication with ChatGPT
+
+2. **Transparency**:
+
+   - Clear functionality disclosure
+   - No hidden features
+   - Open source code
+
+3. **Utility**:
+   - Provides clear value to users
+   - Implements expected functionality
+   - Simple and efficient user experience
+
+## Required Permissions Explanation
+
+- `contextMenus`: Required to add the right-click menu option
+- `tabs`: Needed to open and manage ChatGPT tabs
+- `scripting`: Used to insert selected text into ChatGPT interface
+- Host permissions are limited to ChatGPT domains only
 
 ## Author
 
