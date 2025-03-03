@@ -1,0 +1,53 @@
+Open in ChatGPT - Store Description
+
+Select any text on a webpage, right-click, and send it directly to ChatGPT for quick answers. Simple, fast, and efficient.
+
+🚀 FEATURES
+    • Instantly send selected text to ChatGPT with a simple right-click
+    • Seamless integration with any webpage
+    • Clean and intuitive interface
+    • No account creation required (requires ChatGPT account)
+    • Zero data collection - your privacy is respected
+    • Works with any text selection on any webpage
+
+🎯 PERFECT FOR
+    • Students researching topics
+    • Professionals seeking quick explanations
+    • Writers needing instant feedback
+    • Researchers analyzing content
+    • Anyone wanting quick AI assistance while browsing
+
+💡 HOW TO USE
+    1. Select any text on a webpage
+    2. Right-click on your selection
+    3. Click "Open in ChatGPT" from the menu
+    4. Your selected text will automatically open in ChatGPT
+
+⚙️ TECHNICAL DETAILS
+    • Minimal permissions required
+    • Only accesses ChatGPT when you request it
+    • Open source code available on GitHub
+    • Regular updates and maintenance
+    • Compatible with all Chromium-based browsers
+
+🔒 PRIVACY
+    • No data collection or storage
+    • No tracking
+    • Only processes text you explicitly select
+    • Only communicates with official ChatGPT domains
+
+⚠️ NOTE
+This is not an official OpenAI product. This extension is independently developed to enhance your ChatGPT experience.
+
+💫 VERSION HISTORY
+1.0 - Initial release
+    • Context menu integration
+    • Automatic text insertion
+    • Clean user interface
+    • Full ChatGPT compatibility
+
+📧 SUPPORT
+For support, feature requests, or bug reports, please visit our GitHub repository:
+https://github.com/Flotss/OpenInChatGPTExtension
+
+Keywords: ChatGPT, AI Assistant, Text Processing, Productivity, Research Tool
